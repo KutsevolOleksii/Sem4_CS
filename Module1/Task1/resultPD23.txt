@@ -1,0 +1,15 @@
+GONE ARE THE DAYS WHEN C# WAS TIED TO A SINGLE OS.
+WITH .NET, YOU CAN BUILD FOR WINDOWS, LINUX, AND MACOS WITH ONE UNIFIED CODEBASE.
+WRITE ONCE, RUN EVERYWHERE, AND NEVER LOOK BACK.
+PD23
+
+[Символів: 50] для рядка: "Gone are the days when C# was tied to a single OS."
+[Символів: 81] для рядка: "With .NET, you can build for Windows, Linux, and macOS with one unified codebase."
+[Символів: 48] для рядка: "Write once, run everywhere, and never look back."
+[Символів: 4] для рядка: "PD23"
+
+[Слів: 12] для рядка: "Gone are the days when C# was tied to a single OS."
+[Слів: 14] для рядка: "With .NET, you can build for Windows, Linux, and macOS with one unified codebase."
+[Слів: 8] для рядка: "Write once, run everywhere, and never look back."
+[Слів: 1] для рядка: "PD23"
+
